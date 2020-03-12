@@ -1,0 +1,8 @@
+#gang gang gang on god
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: *
+Allow: /
+
